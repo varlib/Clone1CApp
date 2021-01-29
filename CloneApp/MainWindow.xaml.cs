@@ -60,4 +60,11 @@ namespace CloneApp
             return 47; //Calculo da porcentagem de consumo
         }
     }
+
+    public class Test
+    {
+        public static int s;
+        private int p;
+        public int d;
+    }
 }
