@@ -329,6 +329,10 @@
 
         <Grid x:Name="GridBarraTitulo" Grid.ColumnSpan="2" Background="#FFFBED9E" MouseDown="GridBarraTitulo_MouseDown">
             <Border BorderBrush="#bcae5f" BorderThickness="0,0,0,2" Background="#FFFBED9E"></Border>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <materialDesign:PackIcon Kind="Bank" Width="20" Height="20" VerticalAlignment="Center" Margin="5 0"/>
+                <Label Margin="1">Заголовок программы</Label>
+            </StackPanel>
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10,0">
                 <Button Width="25" Height="25" BorderBrush="{x:Null}" Margin="0,0,20,0">
                     <Button.Foreground>

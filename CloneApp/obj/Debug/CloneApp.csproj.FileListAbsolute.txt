@@ -20,3 +20,25 @@ D:\Project\c-sharp\Clone1CApp\CloneApp\obj\Debug\CloneApp.csproj.CoreCompileInpu
 D:\Project\c-sharp\Clone1CApp\CloneApp\obj\Debug\CloneApp.csproj.CopyComplete
 D:\Project\c-sharp\Clone1CApp\CloneApp\obj\Debug\CloneApp.exe
 D:\Project\c-sharp\Clone1CApp\CloneApp\obj\Debug\CloneApp.pdb
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\CloneApp.exe.config
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\CloneApp.exe
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\CloneApp.pdb
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\MaterialDesignColors.dll
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.csprojAssemblyReference.cache
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\MainWindow.g.cs
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\App.g.cs
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp_MarkupCompile.cache
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp_MarkupCompile.lref
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\App.baml
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\MainWindow.baml
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.g.resources
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.Properties.Resources.resources
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.csproj.GenerateResource.cache
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.csproj.CoreCompileInputs.cache
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.csproj.CopyComplete
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.exe
+D:\project\c-sharp\Clone 1C\Clone1CApp\CloneApp\obj\Debug\CloneApp.pdb

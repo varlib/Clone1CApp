@@ -24,7 +24,14 @@ namespace CloneApp
 
         private void GridBarraTitulo_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            DragMove();
+            try
+            {
+                DragMove();
+            }
+            catch
+            {
+
+            }
         }
 
         private void copy_MouseDown(object sender, MouseButtonEventArgs e)
